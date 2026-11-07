@@ -12,7 +12,8 @@
 </td>
 <td width="40%" align="center">
 
-<img src=https://giphy.com/gifs/jojo-jjba-torture-dance-TI9HiyUqRm75jPyKQ5 width="300" />
+<img src=["COLE-AQUI-O-LINK-DO-SEU-GIF.gif"](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9kd2h3MGtnMDdoZXp2c2d4bGkxcDg3cGV2cHZhdzNoNWV1cXlzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TI9HiyUqRm75jPyKQ5/giphy.gif) width="300" />
+
 
 </td>
 </tr>
