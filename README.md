@@ -4,16 +4,15 @@
 
 ## Oieee, seja bem vindo(a) 👋
 
-**Me chamo SEU NOME, tenho XX anos e moro em SUA CIDADE-UF!**
+**Me chamo Lucas de Oliveira, tenho 22 anos e moro em São José Dos Pinhais-PR!**
 
-- 💻 Desenvolvedor(a) de software
-- 🎓 Técnico(a) em desenvolvimento de sistemas
-- 😄 Venha me conhecer um pouco mais.
+- 💻 Estudante de Analise e Desenvolvimento de Sistema
+- 🎓 Técnico em desenvolvimento de sistemas
 
 </td>
 <td width="40%" align="center">
 
-<img src="COLE-AQUI-O-LINK-DO-SEU-GIF.gif" width="300" />
+<img src="[COLE-AQUI-O-LINK-DO-SEU-GIF.gif](https://giphy.com/gifs/jojo-jjba-torture-dance-TI9HiyUqRm75jPyKQ5)" width="300" />
 
 </td>
 </tr>
