@@ -1,9 +1,5 @@
-<h2 align="center">Hello World, I'm SEU NOME, be very welcome 👋</h2>
+<h2 align="center">Hello World, I'm Lucas de Oliveira Ribeiro, be very welcome 👋</h2>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
