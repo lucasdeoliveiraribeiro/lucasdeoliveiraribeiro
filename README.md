@@ -12,7 +12,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="[COLE-AQUI-O-LINK-DO-SEU-GIF.gif](https://giphy.com/gifs/jojo-jjba-torture-dance-TI9HiyUqRm75jPyKQ5)" width="300" />
+<img src=https://giphy.com/gifs/jojo-jjba-torture-dance-TI9HiyUqRm75jPyKQ5 width="300" />
 
 </td>
 </tr>
